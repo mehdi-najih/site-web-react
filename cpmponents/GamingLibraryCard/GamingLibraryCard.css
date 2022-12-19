@@ -1,0 +1,14 @@
+.GamingLibraryCard{
+    flex: 1 1 100%;
+    
+}
+.GamingLibraryCard ul{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid var(--color-primary);
+    padding:1PC 0 ;
+
+}
+.GamingLibraryCard h4{
+    font-size: 1rem;
+}
